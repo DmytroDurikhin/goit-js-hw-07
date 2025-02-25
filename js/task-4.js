@@ -1,4 +1,4 @@
-document.querySelector('.login-form').addEventListener('submit', function(event) {
+document.querySelector('.login-form').addEventListener('submit', (event) => {
     
     event.preventDefault();
     
