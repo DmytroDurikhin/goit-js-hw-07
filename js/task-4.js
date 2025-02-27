@@ -26,3 +26,4 @@ document.querySelector('.login-form').addEventListener('submit', (event) => {
     form.reset();
   });
 
+  document.querySelector("button").textContent = "Log in";

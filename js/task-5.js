@@ -14,3 +14,5 @@ function getRandomHexColor() {
     
     document.querySelector('.color').textContent = randomColor;
   });
+
+  
